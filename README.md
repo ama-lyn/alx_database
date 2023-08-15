@@ -1,3 +1,3 @@
-# Introduction to SQL
+# DATABASES
 
-The basics of Databases (relational) and SQL using a MySQL server
+Exploring relational databases using SQL.
