@@ -12,4 +12,4 @@ WHERE state_id=(
 	FROM states
 	WHERE name = 'California'
 )
-ORDER BY cities.id ASC;
+ORDER BY cities.id;
